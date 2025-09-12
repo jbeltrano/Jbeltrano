@@ -30,5 +30,5 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jbeltrano&layout=compact&theme=rose_pine&langs_count=8&hide_border=true" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jbeltrano&layout=compact&theme=rose_pine&langs_count=6&hide_border=true" alt="Top Languages"/>
 </p>
